@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khushisri1706
+- 👋 Hi, I’m @khushi
 - 👀 I’m interested in Artificial Intelligence and MAchine learning
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate to help other developers use my code 
