@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khushisri1706
 - 👀 I’m interested in Artificial Intelligence and MAchine learning
 - 🌱 I’m currently learning Computer vision
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate to help other developers use my code 
 - 📫 How to reach me ksglsriv@gmail.com
 
 <!---
